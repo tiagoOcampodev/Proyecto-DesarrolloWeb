@@ -1,0 +1,4 @@
+Hola tutor si usted ve varios css en la carpeta CSS es porque cada seccion del sitio tiene distintos backgrounds,
+fuentes y estilos aplicados , en estos css no esta el css de cada pagina son solo estilos simples que no quiero que
+generen problemas en el archivo global que seria "style.css" donde tengo todos los estilos y los demas son secundarios
+como ya dije.Pase todo el archivo a sass en la carpeta codigo-sass donde encuentra el archivo. 

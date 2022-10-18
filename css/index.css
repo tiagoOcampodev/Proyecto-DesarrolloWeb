@@ -1,0 +1,12 @@
+body {
+    min-height: 100vh;
+    background:url(/img/backg.png) no-repeat center center/cover;
+    overflow: hidden;
+    }
+body::after{
+    content: "";
+    background: #1f1f1f67;
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+}
